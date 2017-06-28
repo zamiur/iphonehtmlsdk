@@ -26,11 +26,21 @@ Now first you will need to setup your developer enviroment, a text editor is req
 ```
 
 These lines of HTML are reqired for the icons when added in the homescreen
-
+```
 <meta name="apple-mobile-web-app-title" content="AppTitle"
+```
 
 Of course you have guessed that this will give the app its default name when added to the homescreen
 
+```
+<meta name="apple-mobile-web-app-capable" content="yes">
+```
+This allows the app to be fullscreen and will hide safari ui
+
+```
+<meta name="apple-mobile-web-app-status-bar-style" content="black">
+```
+This will make the status bar at the top of the iphone black
 
 Useful links for help
 ----
