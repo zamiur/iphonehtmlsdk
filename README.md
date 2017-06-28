@@ -17,11 +17,13 @@ https://www.w3schools.com/html/default.asp
 
 Now first you will need to setup your developer enviroment, a text editor is required to edit the index.html and you need to be able to host a domain for the native web application. A good text editor for macOS is TextEditor or TextWrangler. For Windows, use Notepad++ or WordPad. Now with that done you first are reqired to make the web page "native to Safari". This can be done by typing in 
 
-<code><link rel="apple-touch-icon" href="touch-icon-iphone.png">
-<code><link rel="apple-touch-icon" sizes="152x152" href="touch-icon-ipad.png">
-<code><link rel="apple-touch-icon" sizes="180x180" href="touch-icon-iphone-retina.png">
-<code><link rel="apple-touch-icon" sizes="167x167" href="touch-icon-ipad-retina.png">
-<code><link rel="apple-touch-icon" href="/custom_icon.png"
+```
+<link rel="apple-touch-icon" href="touch-icon-iphone.png">
+<link rel="apple-touch-icon" sizes="152x152" href="touch-icon-ipad.png">
+<link rel="apple-touch-icon" sizes="180x180" href="touch-icon-iphone-retina.png">
+<link rel="apple-touch-icon" sizes="167x167" href="touch-icon-ipad-retina.png">
+<link rel="apple-touch-icon" href="/custom_icon.png"
+```
 
 These lines of HTML are reqired for the icons when added in the homescreen
 
