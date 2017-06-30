@@ -11,7 +11,9 @@ https://developer.apple.com/library/content/documentation/AppleApplications/Refe
 
 Usage and Documentation
 ----
-To use the developer kit, you will need to know the programming language HTML (Hyper Text Markup Language), If you don't know the programming language i'd recommend visiting this site to learn
+To use the developer kit, you will need to know the programming language HTML (Hyper Text Markup Language), If you don't know the programming language read these guides
+
+https://developer.apple.com/library/content/documentation/AppleApplications/Reference/SafariWebContent/IntroductiontoHTML/IntroductiontoHTML.html#//apple_ref/doc/uid/TP40002080-SW1
 
 https://www.w3schools.com/html/default.asp
 
