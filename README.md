@@ -15,7 +15,7 @@ To use the developer kit, you will need to know the programming language HTML (H
 
 https://www.w3schools.com/html/default.asp
 
-Now first you will need to setup your developer enviroment, a text editor is required to edit the index.html and you need to be able to host a domain for the native web application. A good text editor for macOS is TextEditor or TextWrangler. For Windows, use Notepad++ or WordPad. Now with that done you first are reqired to make the web page "native to Safari". This can be done by typing in 
+Now first you will need to setup your developer enviroment, a text editor is required to edit the index.html and you need to be able to host a domain for the native web application. A good text editor for macOS is TextEditor or TextWrangler.Xcode is required. For Windows, use Notepad++ or WordPad. Now with that done you first are reqired to make the web page "native to Safari". This can be done by typing in 
 
 ```
 <link rel="apple-touch-icon" href="touch-icon-iphone.png">
@@ -42,9 +42,13 @@ This allows the app to be fullscreen and will hide safari ui
 ```
 This will make the status bar at the top of the iphone black
 
+Now that part of the index.html is done
+
 Useful links for help
 ----
 https://developer.apple.com/library/content/documentation/AppleApplications/Reference/SafariWebContent/CreatingContentforSafarioniPhone/CreatingContentforSafarioniPhone.html#//apple_ref/doc/uid/TP40006482-SW5
 
 https://developer.apple.com/library/content/documentation/AppleApplications/Conceptual/Safari_Developer_Guide/Introduction/Introduction.html#//apple_ref/doc/uid/TP40007874
+
+https://help.apple.com/xcode/mac/8.0/
 
