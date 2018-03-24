@@ -1,5 +1,6 @@
 # iphonehtmlsdk
 HTML Web App Developer Kit for iOS
+Development will resume.
 
 About
 ----
@@ -11,7 +12,7 @@ https://developer.apple.com/library/content/documentation/AppleApplications/Refe
 
 Usage and Documentation
 ----
-To use the developer kit, you will need to know the programming language HTML (Hyper Text Markup Language), If you don't know the programming language read these guides
+To use the developer kit, you will need to know the programming language HTML (Hyper Text Markup Language), If you don't know the programming language read these guides. This is intended to make a web app or hone frinedly site
 
 https://developer.apple.com/library/content/documentation/AppleApplications/Reference/SafariWebContent/IntroductiontoHTML/IntroductiontoHTML.html#//apple_ref/doc/uid/TP40002080-SW1
 
@@ -54,3 +55,7 @@ https://developer.apple.com/library/content/documentation/AppleApplications/Conc
 
 https://help.apple.com/xcode/mac/8.0/
 
+Changelog
+----
+24/3/2018 - Added changelog
+24/3/2018 - Going to document more on this
